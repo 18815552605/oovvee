@@ -71,20 +71,20 @@ users:
         # 任务类型（收集：0、签到：1、查寝2）
         type: 0
         # 学校名称
-        schoolName: '宜宾学院'
+        schoolName: '安徽城市管理职业学院'
         # 账号
-        username: ''
+        username: '21314063'
         # 密码
-        password: ''
+        password: '170013'
         # 定位位置信息
-        address: '四川省（自己改）'
+        address: '安徽省池州市东至县龙泉镇'
         #sendKey 当sendType为0时代表邮箱，当sendType为1时代表接收消息的QQ号码，当sendType为2时代表接收消息的pushplus token
         sendKey: ''
         # 附上经纬度查询地址（请自行选择自己的学校地址，address，lon，lat都要填查询到的）：http://api.map.baidu.com/lbsapi/getpoint/index.html
         # 经纬度信息
-        lon: 104.6191824
+        lon: 116.798512
         #经纬度信息
-        lat: 28.800613
+        lat: 29.583344
         # 是否检查表单的标题（1代表检查，0代表不检查）
         checkTitle: 1
         # 代理ip信息（若无可忽略本设置、该配置仅供您所在环境ip被ban且自己拥有代理ip使用）（格式为：网络协议://ip地址:端口   如：http://127.0.0.1:7890）
